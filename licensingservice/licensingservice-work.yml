@@ -13,7 +13,7 @@ example.property: "I AM IN THE DEFAULT"
 #redis.port: "6379"
 #signing.key: "345345fsdfsf5345"
 
-redis.server: "redis"
+redis.server: "192.168.21.225"
 redis.port: "6379"
 signing.key: "345345fsdfsf5345"
 
