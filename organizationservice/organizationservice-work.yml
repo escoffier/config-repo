@@ -15,7 +15,7 @@ eureka:
     healthcheck:
       enabled: true
     service-url:
-      defaultZone: http://140.143.45.252:8761/eureka/
+      defaultZone: http://140.143.45.252:8761/eureka
 
 #eureka.instance.prefer-ip-address: true
 #eureka.client.fetch-registry: true
